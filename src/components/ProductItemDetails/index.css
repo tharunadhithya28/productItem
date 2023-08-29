@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.image1 {
+  width: 500px;
+}
+.similar-container {
+  display: flex;
+  flex-direction: row;
+}
+.summa {
+  line-height: 2;
+}
